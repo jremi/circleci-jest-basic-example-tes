@@ -11,7 +11,7 @@ it('should divide two values', () => {
     expect(myModule.b({
         x: 10,
         y: 10
-    })).toBe(2) 
+    })).toBe(1) 
 })
 
 it('should add two values', () => {
